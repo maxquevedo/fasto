@@ -20,7 +20,7 @@
 ### Antes de empezar
 
 Como el proyecto usa postgre, hay que habilitar primero el conector de postgre en php,
-para lo cual vamos a ir a nuestra carpeta de php y abriremos php.ini, donde buscaremos la siguiente linea para editarla, para descomentar solo hay que eliminar el punto y coma ``` ; ``` del principio de la línea
+para lo cual vamos a ir a nuestra carpeta de php y abriremos ``` php.ini ```, donde buscaremos la siguiente linea para editarla, para descomentar solo hay que eliminar el punto y coma ``` ; ``` del principio de la línea
 
 ```
 extension=php_pdo_pgsql.dll
