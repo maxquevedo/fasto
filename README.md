@@ -27,6 +27,8 @@ extension=php_pdo_pgsql.dll
 extension=php_pgsql.dll
 ```
 
+### Para empezar
+
 En la carpeta del proyecto abrir un terminal y colocar lo siguiente: 
 
 ```
