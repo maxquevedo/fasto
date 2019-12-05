@@ -1,10 +1,10 @@
 # fasto
 
 # php 
-version -> 7.1.29
+version: 7.1.29
 
 # laravel framework
-version -> 5.8.35
+version: 5.8.35
 
 # postgresql
-version -> 10
+version: 10
