@@ -1,5 +1,6 @@
 # fasto
 * [Versiones](#Versiones)
+* [Instrucciones](#Instrucciones)
 
 
 ## Versiones
@@ -12,3 +13,11 @@
 
 #### postgresql
 * version: 10
+
+
+## Instrucciones
+En la carpeta del proyecto abrir un terminal y colocar lo siguiente: 
+
+```
+php artisan serve
+```
