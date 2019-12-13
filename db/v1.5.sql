@@ -107,10 +107,6 @@ CREATE TABLE "sistema_especifico" (
   PRIMARY KEY ("id")
 );
 
-CREATE TABLE "table_1" (
-
-);
-
 CREATE TABLE "tematica" (
   "id" int4 NOT NULL,
   "descripcion" varchar(255) NOT NULL,
