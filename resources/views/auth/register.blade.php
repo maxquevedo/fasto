@@ -61,6 +61,31 @@
                             </div>
                         </div>
 
+                        
+                        <div class="form-group row">
+                            <label for="habilitado" class="col-md-4 col-form-label text-md-right">habilitado</label>
+
+                            <div class="col-md-6">
+                                <input id="habilitado" type="text" class="form-control" name="habilitado" value="1" required>
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label for="premium" class="col-md-4 col-form-label text-md-right">premium</label>
+
+                            <div class="col-md-6">
+                                <input id="premium" type="text" class="form-control" name="premium" value="1" required>
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label for="id_perfil" class="col-md-4 col-form-label text-md-right">id_perfil</label>
+
+                            <div class="col-md-6">
+                                <input id="id_perfil" type="text" class="form-control" name="id_perfil" value="1" required>
+                            </div>
+                        </div>
+
                         <div class="form-group row mb-0">
                             <div class="col-md-6 offset-md-4">
                                 <button type="submit" class="btn btn-primary">
